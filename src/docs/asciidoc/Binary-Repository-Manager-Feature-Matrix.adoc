@@ -1,6 +1,6 @@
 =  Binary Repository Manager Feature Matrix 
 
-[frame="all", options="header,autowidth"]
+[width="100%",frame="all", options="header,autowidth"]
 |===
 |Feature |Archiva |Artifactory | Nexus
 
